@@ -1,0 +1,12 @@
+{
+  "name": "dompet-mikail",
+  "version": "1.0.0",
+  "description": "Dompet Mikail - Financial & Budget Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["finance", "dashboard", "dompet"],
+  "author": "Mikail",
+  "license": "MIT"
+}
